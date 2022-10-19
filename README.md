@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee IT specialist for **system integration** at [babymarkt.de GmbH](https://github.com/Baby-Markt).\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee IT specialist for **system integration** at [babymarkt.de GmbH](https://github.com/Baby-Markt)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for **IT** and **meditation**\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about the topic of **IT-Security** and **data protection**\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning **Rust** and **Angular**\
