@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I am Diapurl</h1>
-<h3 align="center">A passionate trainee IT specialist for system integration at babymarkt.de GmbH. </h3>
+<h1 align="center">Hi there! 👋 How are you doing?</h1>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=diapurl&label=Profile%20views&color=0e75b6&style=flat" alt="diapurl"/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diapurl&label=Profile%20views&color=0e75b6&style=flat" alt="diapurl" /> </p>
+### :space_invader: &nbsp;About Me
 
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee IT specialist for **system integration** at [babymarkt.de GmbH](https://www.babymarkt.de/).\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for **IT** and **meditation**.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about the topic of **IT-Security** and **data protection**.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learing **Rust** and **Angular**.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Beginner in software development but **learning every day**
 
-- 🔭 I’m currently working on **My Website**
-
-- 🌱 I’m currently learning **Rust and Angular**
-
-- 📝 My interests are **IT-Security** and **Privacy policy**
-
-- ⚡ Fun fact: **I am weird :)**
-
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,6 @@
 <a href="https://steamcommunity.com/profiles/76561198452856084/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="df7BM9W4P3" height="30" /></a>
 <a href="https://t.me/diapurl" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="df7BM9W4P3" height="30" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40Rus/></a>
@@ -32,6 +30,5 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/diapurl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diapurl" /></a><a href="https://ko-fi.com/diapurl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="diapurl" /></a></p>
+<p><a href="https://www.buymeacoffee.com/diapurl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diapurl" /></a></p>
