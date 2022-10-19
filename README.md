@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 How are you doing?</h1>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=diapurl&label=Profile%20views&color=0e75b6&style=flat" alt="diapurl"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=diapurl&label=Profile%20views&color=0e75b6&style=flat" alt="diapurl"/></p>
 
 ### :space_invader: &nbsp;About Me
 
