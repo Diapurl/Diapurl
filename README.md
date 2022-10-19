@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Diapurl</h1>
-<h3 align="center">A passionate trainee IT specialist for system integration at babymarkt.de GmbH (@Baby-Markt).</h3>
+<h3 align="center">A passionate trainee IT specialist for system integration at babymarkt.de GmbH. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diapurl&label=Profile%20views&color=0e75b6&style=flat" alt="diapurl" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust and Angular**
 
-<!-- - 📝 I regularly write articles on -->
+- 📝 My interests are **IT-Security** and **Privacy policy**
 
 - ⚡ Fun fact: **I am weird :)**
 
