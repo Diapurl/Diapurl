@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee IT specialist for **system integration** at [babymarkt.de GmbH](https://github.com/Baby-Markt)\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee computer scientist for **system integration** at [babymarkt.de GmbH](https://github.com/Baby-Markt)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for **computer Science** and **meditation**\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about the topic of **Cybersecurity** and **data privacy**\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning about **GNU/Linux**\
@@ -22,10 +22,9 @@
 <hr>
  
 ### :electric_plug: &nbsp;Connect with me
-<a href="https://twitter.com/diapurl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diapurl" height="30"/></a>
-<a href="https://discord.gg/df7BM9W4P3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="df7BM9W4P3" height="35"/></a>
-<a href="https://t.me/diapurl" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="df7BM9W4P3" height="30" /></a>
-<a href="https://steamcommunity.com/profiles/76561198452856084/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="df7BM9W4P3" height="30" /></a>
+<a href="https://twitter.com/diapurl" target="blank_"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" height="30"/></a>
+<a href="https://twitter.com/diapurl" target="blank_"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30"/></a>
+
 
 <hr>
  
