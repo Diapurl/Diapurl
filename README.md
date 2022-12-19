@@ -4,11 +4,10 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a trainee IT specialist for **system integration** at [babymarkt.de GmbH](https://github.com/Baby-Markt)\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for **IT** and **meditation**\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about the topic of **IT-Security** and **data protection**\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning **Rust** and **Angular**\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Beginner in software development but **learning every day**\
-&nbsp;&nbsp;&nbsp;:upside_down_face: &nbsp;Fun fact: I am a **weird person**
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for **computer Science** and **meditation**\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about the topic of **Cybersecurity** and **data privacy**\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning about **GNU/Linux**\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Beginner in system integration but **learning every day**\
 
 <hr> 
 
@@ -19,8 +18,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
 
 <hr>
  
